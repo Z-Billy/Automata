@@ -1,0 +1,29 @@
+﻿  DFA.cpp
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(8): error C2061: syntax error: identifier 'map'
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(14): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(14): error C2238: unexpected token(s) preceding ';'
+  Source.cpp
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(8): error C2061: syntax error: identifier 'map'
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(14): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(14): error C2238: unexpected token(s) preceding ';'
+  State.cpp
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(8): error C2061: syntax error: identifier 'map'
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(14): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(14): error C2238: unexpected token(s) preceding ';'
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.cpp(10): error C2511: 'State::State(std::string &,char,std::map<char,State *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)': overloaded member function not found in 'State'
+          with
+          [
+              _Kty=char,
+              _Ty=State *
+          ]
+  c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.h(5): note: see declaration of 'State'
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.cpp(11): error C2550: 'State::{ctor}': constructor initializer lists are only allowed on constructor definitions
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.cpp(13): error C2563: mismatch in formal parameter list
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.cpp(30): error C2059: syntax error: ')'
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.cpp(32): error C2181: illegal else without matching if
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.cpp(39): error C2563: mismatch in formal parameter list
+c:\users\asus\documents\visual studio 2017\projects\4,23\4,23\state.cpp(42): error C2563: mismatch in formal parameter list
+  Generating Code...

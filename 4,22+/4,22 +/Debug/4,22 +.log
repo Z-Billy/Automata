@@ -1,0 +1,3 @@
+﻿  State.cpp
+c:\users\asus\documents\visual studio 2017\projects\4,22 +\4,22 +\state.cpp(28): error C2059: syntax error: ')'
+c:\users\asus\documents\visual studio 2017\projects\4,22 +\4,22 +\state.cpp(30): error C2181: illegal else without matching if

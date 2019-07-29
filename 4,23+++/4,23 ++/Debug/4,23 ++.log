@@ -1,0 +1,167 @@
+﻿  DFA.cpp
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(8): error C2061: syntax error: identifier 'map'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C2238: unexpected token(s) preceding ';'
+  Source.cpp
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(8): error C2061: syntax error: identifier 'map'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C2238: unexpected token(s) preceding ';'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(10): error C2061: syntax error: identifier 'map'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(19): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(19): error C2238: unexpected token(s) preceding ';'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(20): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(20): error C2238: unexpected token(s) preceding ';'
+  State.cpp
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(8): error C2061: syntax error: identifier 'map'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C2238: unexpected token(s) preceding ';'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.cpp(11): error C2511: 'State::State(std::string &,char,std::map<char,State *,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)': overloaded member function not found in 'State'
+          with
+          [
+              _Kty=char,
+              _Ty=State *
+          ]
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(5): note: see declaration of 'State'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.cpp(12): error C2550: 'State::{ctor}': constructor initializer lists are only allowed on constructor definitions
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.cpp(14): error C2563: mismatch in formal parameter list
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.cpp(16): error C2563: mismatch in formal parameter list
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.cpp(22): error C2039: 'next': is not a member of 'State'
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(5): note: see declaration of 'State'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.cpp(33): error C2070: 'overloaded-function': illegal sizeof operand
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.cpp(37): error C2059: syntax error: ')'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.cpp(39): error C2181: illegal else without matching if
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.cpp(46): error C2563: mismatch in formal parameter list
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.cpp(49): error C2563: mismatch in formal parameter list
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.cpp(56): error C2039: 'next': is not a member of 'State'
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(5): note: see declaration of 'State'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.cpp(65): error C2039: 'next': is not a member of 'State'
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(5): note: see declaration of 'State'
+  Statepluse.cpp
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(8): error C2061: syntax error: identifier 'map'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C2238: unexpected token(s) preceding ';'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(10): error C2061: syntax error: identifier 'map'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(19): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(19): error C2238: unexpected token(s) preceding ';'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(20): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(20): error C2238: unexpected token(s) preceding ';'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(7): error C2511: 'Statepluse::Statepluse(std::map<State *,char,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &,std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)': overloaded member function not found in 'Statepluse'
+          with
+          [
+              _Kty=State *,
+              _Ty=char
+          ]
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(6): note: see declaration of 'Statepluse'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(10): error C2065: 'location': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(10): error C2679: binary '[': no operator found which takes a right-hand operand of type 'int' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\map(361): note: could be 'char &std::map<State *,char,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>::operator [](State *const &)'
+          with
+          [
+              _Kty=State *,
+              _Ty=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\map(197): note: or       'char &std::map<State *,char,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>::operator [](State *&&)'
+          with
+          [
+              _Kty=State *,
+              _Ty=char
+          ]
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(10): note: while trying to match the argument list '(std::map<State *,char,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>, int)'
+          with
+          [
+              _Kty=State *,
+              _Ty=char
+          ]
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(11): error C2065: 'value': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(11): error C2679: binary '[': no operator found which takes a right-hand operand of type 'int' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\map(361): note: could be 'char &std::map<State *,char,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>::operator [](State *const &)'
+          with
+          [
+              _Kty=State *,
+              _Ty=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\map(197): note: or       'char &std::map<State *,char,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>::operator [](State *&&)'
+          with
+          [
+              _Kty=State *,
+              _Ty=char
+          ]
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(11): note: while trying to match the argument list '(std::map<State *,char,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>, int)'
+          with
+          [
+              _Kty=State *,
+              _Ty=char
+          ]
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(15): error C2065: 'location': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(16): error C2065: 'value': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(21): error C2512: 'State': no appropriate default constructor available
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(5): note: see declaration of 'State'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(22): error C2065: 'location': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(22): error C2039: 'location': is not a member of 'Statepluse'
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(6): note: see declaration of 'Statepluse'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(23): error C2065: 'value': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(23): error C2039: 'value': is not a member of 'Statepluse'
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(6): note: see declaration of 'Statepluse'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(34): error C2065: 'value': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(38): error C2065: 'location': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(41): error C2065: 'value': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(47): error C2065: 'location': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(50): error C2065: 'location': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(55): error C2065: 'value': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(58): error C2065: 'value': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(63): error C2065: 'location': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(63): error C2039: 'location': is not a member of 'Statepluse'
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(6): note: see declaration of 'Statepluse'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(64): error C2065: 'value': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(64): error C2039: 'value': is not a member of 'Statepluse'
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(6): note: see declaration of 'Statepluse'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(69): error C2065: 'location': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(69): error C2039: 'location': is not a member of 'Statepluse'
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(6): note: see declaration of 'Statepluse'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(71): error C2065: 'value': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.cpp(71): error C2039: 'value': is not a member of 'Statepluse'
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(6): note: see declaration of 'Statepluse'
+  Turing.cpp
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(8): error C2061: syntax error: identifier 'map'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\state.h(17): error C2238: unexpected token(s) preceding ';'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(10): error C2061: syntax error: identifier 'map'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(19): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(19): error C2238: unexpected token(s) preceding ';'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(20): error C2143: syntax error: missing ';' before '<'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\statepluse.h(20): error C2238: unexpected token(s) preceding ';'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(19): error C2065: 'code': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(21): error C2065: 'code': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(22): error C2065: 'code': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(24): error C2065: 'code': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(26): error C2065: 'code': undeclared identifier
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(56): error C2059: syntax error: '}'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(45): error C2059: syntax error: ';'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(49): error C2039: 'pop': is not a member of 'std::vector<Statepluse *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Statepluse *
+          ]
+  c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.h(10): note: see declaration of 'std::vector<Statepluse *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=Statepluse *
+          ]
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(51): error C2059: syntax error: 'else'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(52): error C2143: syntax error: missing ';' before '{'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(52): error C2447: '{': missing function header (old-style formal list?)
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(56): error C2143: syntax error: missing ';' before '}'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(59): error C2143: syntax error: missing ';' before '{'
+c:\users\asus\documents\visual studio 2017\projects\4,23 ++\4,23 ++\turing.cpp(59): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...

@@ -1,0 +1,11 @@
+﻿  Creat_DFA.cpp
+c:\users\asus\documents\visual studio 2017\projects\4,22\4,22\creat_dfa.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2017\projects\4,22\4,22\creat_dfa.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2017\projects\4,22\4,22\creat_dfa.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2017\projects\4,22\4,22\creat_dfa.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2017\projects\4,22\4,22\creat_dfa.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2017\projects\4,22\4,22\creat_dfa.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  Creat_Turing.cpp
+  Source.cpp
+  Generating Code...
+  4,22.vcxproj -> C:\Users\Asus\Documents\Visual Studio 2017\Projects\4,22\Debug\4,22.exe

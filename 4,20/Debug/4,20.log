@@ -1,0 +1,8 @@
+﻿  Creat_DFA.cpp
+c:\users\asus\documents\visual studio 2017\projects\4,20\4,20\creat_dfa.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2017\projects\4,20\4,20\creat_dfa.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2017\projects\4,20\4,20\creat_dfa.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2017\projects\4,20\4,20\creat_dfa.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2017\projects\4,20\4,20\creat_dfa.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\documents\visual studio 2017\projects\4,20\4,20\creat_dfa.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  4,20.vcxproj -> C:\Users\Asus\Documents\Visual Studio 2017\Projects\4,20\Debug\4,20.exe
